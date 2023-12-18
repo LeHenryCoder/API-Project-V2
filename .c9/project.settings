@@ -40,11 +40,6 @@
         "@first": true
     },
     "workspace": {
-        "@folders": [
-            {
-                "name": "API-PROJECT-V2",
-                "path": "/API-PROJECT-V2"
-            }
-        ]
+        "@folders": []
     }
 }
