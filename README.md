@@ -35,3 +35,4 @@ In the initial version of this project, I encountered a couple of key issues tha
 ### Key Takeaways
 - **Importance of VPC First Approach**: Starting with a VPC setup in AWS before provisioning other resources like EC2 instances ensures that all components of the project are correctly networked and secure from the outset.
 - **Persistence in Problem-Solving**: The challenges with GitHub integration taught me the value of persistence and patience in troubleshooting and problem-solving in software development.
+
